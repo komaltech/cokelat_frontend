@@ -1,4 +1,6 @@
-@import url('../fonts/glyphicons-pro/glyphicons-pro.css');
+@import url('../fonts/font-awesome/css/font-awesome.css');
+@import "../fonts/glyphicons-pro/glyphicons-pro.css";
+@import "../fonts/styles.css";
 
 @font-face {
     font-family: "Lato";
@@ -7,6 +9,14 @@
 
 body{
     font-family: "Lato";
+}
+.top{
+    margin-top: 20px;
+    margin-bottom: 50px;
+    
+}
+.icon-3x{
+    font-size: 2em;
 }
 #wrapper {
     padding-left: 0;
@@ -17,7 +27,10 @@ body{
 }
 
 #wrapper.toggled {
-    padding-left: 250px;
+    padding-left: 100px;
+}
+.menu-togel{
+    position: fixed;
 }
 
 #sidebar-wrapper {
@@ -28,21 +41,23 @@ body{
     height: 100%;
     margin-left: -250px;
     overflow-y: auto;
-    background: #825a2c;
+    /*background: #825a2c;*/
+    background: #C5AE89;
     -webkit-transition: all 0.5s ease;
     -moz-transition: all 0.5s ease;
     -o-transition: all 0.5s ease;
     transition: all 0.5s ease;
+    font-size: 12px;
 }
 
 #wrapper.toggled #sidebar-wrapper {
-    width: 250px;
+    width: 100px;
 }
 
 #page-content-wrapper {
     width: 100%;
     position: absolute;
-    padding: 15px;
+    /*padding: 15px;*/
 }
 
 #wrapper.toggled #page-content-wrapper {
@@ -55,20 +70,38 @@ body{
 .sidebar-nav {
     position: absolute;
     top: 0;
-    width: 125px;
+    width: 100px;
     margin: 0;
-    padding: 0;
+    /*padding: 50% 0 0 0 !important;*/
     list-style: none;
+    padding: 0;
+
 }
 
 .sidebar-nav li {
-    text-indent: 20px;
-    line-height: 100px;
+    /*text-indent: 20px;*/
+    line-height: 20px;
 }
-
+.sidebar-nav li a p{
+    font-weight: bold;
+    text-shadow: 2px 2px 4px #95a5a6;
+}
+.sidebar-nav li.active a p{
+    color: #fff;
+}
 .sidebar-nav li a {
     display: block;
     text-decoration: none;
+    color: #6D675F;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.sidebar-nav li.active a{
+    color: #FF503F;
+}
+
+.sidebar-nav li.active a span{
     color: #fff;
 }
 
@@ -83,7 +116,11 @@ body{
 .sidebar-nav li a:focus {
     text-decoration: none;
 }
-
+.sidebar-nav li.active{
+    border-left:7px solid;
+    border-color: #FF503F;
+    color: #FF503F;
+}
 .sidebar-nav > .sidebar-brand {
     height: 65px;
     font-size: 18px;
@@ -99,9 +136,19 @@ body{
     background: none;
 }
 
+/*NAVBAR CONFIGURATION*/
+
+.navbar{
+    padding: 20px;
+    background-color: #947863;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0;
+}
+
 @media(min-width:768px) {
     #wrapper {
-        padding-left: 125px;
+        padding-left: 100px;
     }
 
     #wrapper.toggled {
@@ -109,8 +156,8 @@ body{
     }
 
     #sidebar-wrapper {
-        width: 125px;
-        font-size: 3em;
+        width: 100px;
+        /*font-size: 3em;*/
     }
 
     #wrapper.toggled #sidebar-wrapper {
@@ -118,7 +165,7 @@ body{
     }
 
     #page-content-wrapper {
-        padding: 20px;
+        /*padding: 20px;*/
         position: relative;
     }
 
