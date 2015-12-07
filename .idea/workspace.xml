@@ -2,39 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd06e58f-1ea4-42d5-9635-a8e81488a557" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/Lato-Light.ttf" afterPath="$PROJECT_DIR$/assets/fonts/Lato-Light.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/Lato-Regular.ttf" afterPath="$PROJECT_DIR$/assets/fonts/Lato-Regular.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff2" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-pro/glyphicons-regular.eot" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-pro/glyphicons-regular.eot" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-pro/glyphicons-regular.otf" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-pro/glyphicons-regular.otf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-pro/glyphicons-regular.ttf" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-pro/glyphicons-regular.ttf" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-pro/glyphicons-regular.woff" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-pro/glyphicons-regular.woff" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/assets/css/bootstrap-theme.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/assets/css/bootstrap-theme.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/bootstrap-theme.min.css.map" afterPath="$PROJECT_DIR$/assets/css/bootstrap-theme.min.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/assets/css/bootstrap-theme.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/assets/css/bootstrap.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/bootstrap.css" afterPath="$PROJECT_DIR$/assets/css/bootstrap.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/bootstrap.js" afterPath="$PROJECT_DIR$/assets/js/bootstrap.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/assets/js/bootstrap.min.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/cokelat_frontend.iml" afterPath="$PROJECT_DIR$/.idea/cokelat_frontend.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/global_style.css" afterPath="$PROJECT_DIR$/assets/css/global_style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-halflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/dashboard-ck.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/logo.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fonts/untitled-font-1.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fonts/untitled-font-1.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fonts/untitled-font-1.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/fonts/untitled-font-1.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/font-awesome/less/variables.less" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-pro/glyphicons-pro.css" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-pro/glyphicons-pro.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-pro/glyphicons-regular.svg" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-pro/glyphicons-regular.svg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/jquery-2.1.4.js" afterPath="$PROJECT_DIR$/assets/js/jquery-2.1.4.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/fonts/glyphicons-pro/license.txt" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-pro/license.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/npm.js" afterPath="$PROJECT_DIR$/assets/js/npm.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="cokelat_frontend.iws" />
@@ -60,8 +69,8 @@
       <file leaf-file-name="global_style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/global_style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.30252102">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+            <state vertical-scroll-proportion="0.45378152">
+              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -289,7 +298,13 @@
       <option name="project" value="LOCAL" />
       <updated>1449516239681</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Build Index File">
+      <created>1449521482447</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1449521482448</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -322,7 +337,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Adding Bootstrap and Jquery Core" />
-    <option name="LAST_COMMIT_MESSAGE" value="Adding Bootstrap and Jquery Core" />
+    <MESSAGE value="Build Index File" />
+    <option name="LAST_COMMIT_MESSAGE" value="Build Index File" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -341,8 +357,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/global_style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30252102">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state vertical-scroll-proportion="0.45378152">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
           <folding />
         </state>
       </provider>
