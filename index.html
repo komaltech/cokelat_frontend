@@ -3,12 +3,31 @@
 <head>
     <meta charset="UTF-8">
     <title>Cokelat Klasik - Home</title>
+    <!--<link href="assets/fonts/glyphicons-pro/glyphicons-pro.css" rel="stylesheet" type="text/css">-->
     <link href="assets/css/bootstrap.min.css" rel="stylesheet" type="text/css">
     <link href="assets/css/global_style.css" rel="stylesheet" type="text/css">
+
 </head>
 <body>
-
+<div id="wrapper">
+    <div id="sidebar-wrapper">
+        <ul class="sidebar-nav">
+            <li>&nbsp;</li>
+            <li><a href=""><i class="glyphicons glyphicons-charts"></i></a></li>
+        </ul>
+    </div>
+    <div id="page-content-wrapper">
+        <a href="#menu-toggle" class="btn btn-default" id="menu-toggle" style="border-radius: 0;"><i class="glyphicons glyphicons-show_lines"></i></a>
+    </div>
+</div>
 </body>
+
 <script type="text/javascript" src="assets/js/jquery-2.1.4.js"></script>
 <script type="text/javascript" src="assets/js/bootstrap.min.js"></script>
+<script>
+    $("#menu-toggle").click(function(e) {
+        e.preventDefault();
+        $("#wrapper").toggleClass("toggled");
+    });
+</script>
 </html>
