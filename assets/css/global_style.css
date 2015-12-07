@@ -13,7 +13,8 @@ body{
 .top{
     margin-top: 20px;
     margin-bottom: 50px;
-    
+    text-align: center;
+    font-size: 2em;
 }
 .icon-3x{
     font-size: 2em;
@@ -117,7 +118,7 @@ body{
     text-decoration: none;
 }
 .sidebar-nav li.active{
-    border-left:7px solid;
+    border-left:5px solid;
     border-color: #FF503F;
     color: #FF503F;
 }
@@ -139,13 +140,65 @@ body{
 /*NAVBAR CONFIGURATION*/
 
 .navbar{
-    padding: 20px;
+    padding: 10px;
     background-color: #947863;
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
     border-radius: 0;
 }
 
+/*NAVBAR RIGHT CONFIGURATION*/
+
+.profile img{
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    height: 48px;
+    width: 48px;
+    /*border: 0.01em solid #fff;*/
+    -webkit-box-shadow: 2px 2px 15px #000;
+    -moz-box-shadow: 2px 2px 15px #000;
+    box-shadow: 2px 2px 15px #000;
+}
+ul.nav.pull-right li{
+    display: inline-block;
+}
+
+ul.nav.pull-right li.logout a{
+    color: #e74c3c;
+
+}
+
+ul.nav.pull-right li a span{
+    color: #fff;
+    /*font-weight: bold;*/
+    font-size: 1.25em;
+}
+ul.nav.pull-right li a:hover{
+    background: #947863;
+}
+
+div.navbar ul.nav.pull-right ul.dropdown-menu li a:hover{
+    background: #fff;
+}
+
+div.navbar ul.nav.pull-right li.profile a:focus{
+    background: #947863;
+}
+.dropdown-menu{
+    min-width: 0;
+}
+.inner-wrapper{
+    margin-left:60px;
+    height: auto;
+    width: auto;
+}
+.inner-wrapper hr{
+    width: 800px;
+    text-align: left;
+    border-color: #947863;
+    float: left;
+}
 @media(min-width:768px) {
     #wrapper {
         padding-left: 100px;
@@ -172,5 +225,19 @@ body{
     #wrapper.toggled #page-content-wrapper {
         position: relative;
         margin-right: 0;
+    }
+    div#page-content-wrapper div.navbar img.logo{
+        height: 68px;
+        width: 238px;
+    }
+}
+
+@media screen and (max-width: 768px){
+    ul.nav.pull-right li.profile a span{
+        display: none;
+    }
+    div#page-content-wrapper div.navbar img.logo{
+        height: 50px;
+        width: 220px;
     }
 }

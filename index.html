@@ -13,9 +13,9 @@
     <div id="sidebar-wrapper">
         <ul class="sidebar-nav">
             <li class="top">
-                <a href="">
-                    <i class="icon icon-3x icon-database-streamline"></i>
-                </a>
+                <!--<a href="">-->
+                    <i class="icon icon-3x icon-grid-lines-streamline"></i>
+                <!--</a>-->
             </li>
             <li class="active">
                 <!--<a href=""><i class="glyphicons glyphicons-3x glyphicons-dashboard"></i>-->
@@ -39,26 +39,26 @@
             </li>
             <li>
                 <a href="">
-                    <i class="icon icon-3x icon-factory-lift-streamline-warehouse"></i>
-                    <p>Gudang</p>
+                    <i class="icon icon-3x icon-photo-pictures-streamline"></i>
+                    <p>Keuangan</p>
                 </a>
             </li>
             <li>
                 <a href="">
-                    <i class="icon icon-3x icon-factory-lift-streamline-warehouse"></i>
-                    <p>Gudang</p>
+                    <i class="icon icon-3x icon-receipt-shopping-streamline"></i>
+                    <p>Laporan</p>
                 </a>
             </li>
             <li>
                 <a href="">
-                    <i class="icon icon-3x icon-factory-lift-streamline-warehouse"></i>
-                    <p>Gudang</p>
+                    <i class="icon icon-3x icon-settings-streamline-1"></i>
+                    <p>Pengaturan</p>
                 </a>
             </li>
             <li>
                 <a href="">
-                    <i class="icon icon-3x icon-factory-lift-streamline-warehouse"></i>
-                    <p>Gudang</p>
+                    <i class="icon icon-3x icon-settings-streamline-2"></i>
+                    <p>Bantuan</p>
                 </a>
             </li>
 
@@ -67,16 +67,31 @@
     <div id="page-content-wrapper">
         <div class="navbar">
             <!--<div class="navbar-brand">-->
-                <img src="assets/img/logo.png" height="68,285714286" width="238,285714286">
+                <img src="assets/img/logo.png" class="logo">
             <!--</div>-->
-            <div class="nav pull-right">
-                <div
-            </div>
+            <ul class="nav pull-right">
+                <li class="profile dropdown">
+                    <a href="" class="dropdown-toggle" data-toggle="dropdown">
+                        <img src="assets/img/1.jpg">
+                        <span style="margin-left: 10px;">Jean D.</span>
+                    </a>
+                    <ul class="dropdown-menu">
+                        <li><a href=""><i class="glyphicons glyphicons-power"></i> Logout</a></li>
+                    </ul>
+                </li>
+                <li>&nbsp;</li>
+                <!--<p style="display: inline-block;">Hello</p>-->
+            </ul>
         </div>
         <!--TOOGLE BUTTON-->
         <a href="#menu-toggle" class="btn btn-default menu-togel" id="menu-toggle" style="border-radius: 0;">
             <i class="glyphicons glyphicons-chevron-left"></i>
         </a>
+        <div class="inner-wrapper">
+            <h1>Lorem Ipsum</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adispiscing elit.</p>
+            <hr>
+        </div>
 
     </div>
 </div>
@@ -88,6 +103,15 @@
     $("#menu-toggle").click(function(e) {
         e.preventDefault();
         $("#wrapper").toggleClass("toggled");
+
+        if($('#wrapper').hasClass('toggled')){
+            $('i').removeClass('glyphicons-chevron-left');
+            $('i').addClass('glyphicons-chevron-right');
+        }else{
+            $('i').removeClass('glyphicons-chevron-right');
+            $('i').addClass('glyphicons-chevron-left');
+        }
+
     });
 </script>
 </html>
