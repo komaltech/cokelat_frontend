@@ -322,9 +322,43 @@ div.navbar ul.nav.pull-right li.profile a:focus{
 }
 
 /*HOME CONTROL*/
-
-.btn-home{
+[class^="btn-h"],[class*="btn-h"]{
+    padding: 30px 40px 30px 30px;
+    width: 100%;
+}
+.btn-h1{
     background: #B2AEA5;
+}
+.btn-h2{
+    background: #DAC6A3;
+}
+.btn-h3{
+    background: #947863;
+}
+
+.btn-h1:hover{
+    background: #696560;
+}
+.btn-h2:hover{
+    background: #6b5f50;
+}
+.btn-h3:hover{
+    background: #6a5446;
+}
+
+.btn-h1 img,.btn-h2 img,.btn-h3 img{
+    width: 80px;
+    height: 80px;
+}
+
+.inner-font{
+    font-size: 1.25em;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+    margin-left: 10px;
+}
+.yeah{
+
 }
 
 @media(min-width:768px) {

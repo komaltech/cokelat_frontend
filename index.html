@@ -84,7 +84,7 @@
         </div>
         <!--TOOGLE BUTTON-->
         <a href="#menu-toggle" class="btn btn-default menu-togel" id="menu-toggle" style="border-radius: 0;">
-            <i class="glyphicons glyphicons-chevron-left"></i>
+            <i class="glyphicons glyphicons-chevron-left" id="menu-toggle"></i>
         </a>
         <div class="inner-wrapper">
             <div class="container">
@@ -103,18 +103,91 @@
 
                 <div class="row">
                     <div class="col-sm-3">
-                        <a href="" class="btn btn-primary">Hello</a>
+                        <p>
+                            <a href="" class="btn btn-h1">
+                                <img src="assets/img/icon%20bahan.png">
+                            <span class="inner-font">
+                                Bahan
+                            </span>
+                            </a>
+                        </p>
                     </div>
                     <div class="col-sm-3">
-                        <a href="" class="btn btn-primary">Hello</a>
+                        <p>
+                            <a href="" class="btn btn-h2">
+                                <img src="assets/img/icon%20karyawan.png">
+                            <span class="inner-font">
+                                Karyawan
+                            </span>
+                            </a>
+                        </p>
 
                     </div>
                     <div class="col-sm-3">
-                        <a href="" class="btn btn-primary">Hello</a>
+                        <p>
+                            <a href="" class="btn btn-h3">
+                                <img src="assets/img/icon%20pengguna.png">
+                            <span class="inner-font">
+                                Pengguna
+                            </span>
+                            </a>
+                        </p>
 
                     </div>
                     <div class="col-sm-3">
-                        <a href="" class="btn btn-primary">Hello</a>
+                        <p>
+                            <a href="" class="btn btn-h2">
+                                <img src="assets/img/icon%20pelanggan.png">
+                            <span class="inner-font">
+                                Pelanggan
+                            </span>
+                            </a>
+                        </p>
+
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-sm-3">
+                        <p>
+                            <a href="" class="btn btn-h2">
+                                <img src="assets/img/icon%20menu.png">
+                            <span class="inner-font">
+                                Menu
+                            </span>
+                            </a>
+                        </p>
+                    </div>
+                    <div class="col-sm-3">
+                        <p>
+                            <a href="" class="btn btn-h3">
+                                <img src="assets/img/icon%20hak%20akses.png">
+                            <span class="inner-font">
+                                Hak Akses
+                            </span>
+                            </a>
+                        </p>
+
+                    </div>
+                    <div class="col-sm-3">
+                        <p>
+                            <a href="" class="btn btn-h2">
+                                <img src="assets/img/icon%20konversi.png">
+                            <span class="inner-font">
+                                Konversi Stok
+                            </span>
+                            </a>
+                        </p>
+
+                    </div>
+                    <div class="col-sm-3">
+                        <p>
+                            <a href="" class="btn btn-h1">
+                                <img src="assets/img/icon%20gudang.png">
+                            <span class="inner-font">
+                                Barang
+                            </span>
+                            </a>
+                        </p>
 
                     </div>
                 </div>
@@ -133,11 +206,11 @@
         $("#wrapper").toggleClass("toggled");
 
         if($('#wrapper').hasClass('toggled')){
-            $('i').removeClass('glyphicons-chevron-left');
-            $('i').addClass('glyphicons-chevron-right');
+            $('i#menu-toggle').removeClass('glyphicons-chevron-left');
+            $('i#menu-toggle').addClass('glyphicons-chevron-right');
         }else{
-            $('i').removeClass('glyphicons-chevron-right');
-            $('i').addClass('glyphicons-chevron-left');
+            $('i#menu-toggle').removeClass('glyphicons-chevron-right');
+            $('i#menu-toggle').addClass('glyphicons-chevron-left');
         }
 
     });
