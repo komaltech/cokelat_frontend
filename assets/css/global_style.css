@@ -12,7 +12,7 @@ body{
 }
 .top{
     margin-top: 20px;
-    margin-bottom: 35px;
+    margin-bottom: 50px;
     text-align: center;
     font-size: 2em;
 }
@@ -52,7 +52,7 @@ body{
 }
 
 #wrapper.toggled #sidebar-wrapper {
-    width: 115px;
+    width: 100px;
 }
 
 #page-content-wrapper {
@@ -71,7 +71,7 @@ body{
 .sidebar-nav {
     position: absolute;
     top: 0;
-    width: 115px;
+    width: 100px;
     margin: 0;
     /*padding: 50% 0 0 0 !important;*/
     list-style: none;
@@ -199,119 +199,6 @@ div.navbar ul.nav.pull-right li.profile a:focus{
     border-color: #947863;
     float: left;
 }
-.loginmodal-container {
-    padding: 20px;
-    max-width: 35%;
-    width: 100%;
-    max-height: 43%;
-    background-color: #F7F7F7;
-    margin-top: 2%;
-    margin-left: 33%;
-    border-radius: 2px;
-    box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.3);
-    overflow: hidden;
-    font-family: lato;
-}
-
-.loginmodal-container h1 {
-    text-align: center;
-    font-size: 1.8em;
-    font-family: lato;
-}
-
-.loginmodal-container input[type=submit] {
-    width: 90px;
-    height: 44px;
-    bottom: 88px;
-    display: block;
-    margin-bottom: 20px;
-    margin-left: 71%;
-    position: relative;
-    background-color:#C5AE89;
-    font-family: lato;
-
-}
-
-.loginmodal-container input[type=text], input[type=password] {
-    height: 44px;
-    font-size: 16px;
-    width: 60%;
-    margin-bottom: 20px;
-    margin-right: 250px;
-    -webkit-appearance: none;
-    background: #fff;
-    border: 1px solid #d9d9d9;
-    border-top: 1px solid #c0c0c0;
-    /* border-radius: 2px; */
-    padding: 0 8px;
-    box-sizing: border-box;
-    -moz-box-sizing: border-box;
-}
-
-.loginmodal-container input[type=text]:hover, input[type=password]:hover {
-    border: 1px solid #b9b9b9;
-    border-top: 1px solid #a0a0a0;
-    -moz-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
-    -webkit-box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
-    box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
-}
-
-#loginmodal {
-    text-align: left;
-    font-size: 12px;
-    font-family: 'Arial', sans-serif;
-    font-weight: 700;
-    height: 36px;
-    padding: 0 8px;
-
-    /* border-radius: 3px; */
-    /* -webkit-user-select: none;
-      user-select: none; */
-}
-
-.loginmodal-submit {
-    /* border: 1px solid #3079ed; */
-    border: 0px;
-    color: #fff;
-    text-shadow: 0 1px rgba(0,0,0,0.1);
-    background-color: #4d90fe;
-    padding: 17px 0px;
-    font-family: lato;
-    font-size: 14px;
-    /* background-image: -webkit-gradient(linear, 0 0, 0 100%,   from(#4d90fe), to(#4787ed)); */
-}
-
-.loginmodal-submit:hover {
-    /* border: 1px solid #2f5bb7; */
-    border: 0px;
-    text-shadow: 0 1px rgba(0,0,0,0.3);
-    background-color: #357ae8;
-    /* background-image: -webkit-gradient(linear, 0 0, 0 100%,   from(#4d90fe), to(#357ae8)); */
-}
-
-.loginmodal-container a {
-    text-decoration: none;
-    color: #666;
-    font-weight: 400;
-    text-align: center;
-    display: inline-block;
-    opacity: 0.6;
-    transition: opacity ease 0.5s;
-}
-
-.login-help{
-    font-size: 12px;
-}
-
-.login-background{
-    background-image: url("../img/chocolate.jpg");
-    min-height: 100%;
-    position: absolute;
-    height: 100%;
-    min-width: 100%;
-    width: 100%;
-
-}
 @media(min-width:768px) {
     #wrapper {
         padding-left: 100px;
@@ -354,4 +241,3 @@ div.navbar ul.nav.pull-right li.profile a:focus{
         width: 220px;
     }
 }
-
