@@ -1,18 +1,18 @@
 @import url('../fonts/font-awesome/css/font-awesome.css');
 @import "../fonts/glyphicons-pro/glyphicons-pro.css";
 @import "../fonts/styles.css";
-
+@import "../fonts/open-sans-fontfacekit/opensans_regular_macroman/stylesheet.css";
 @font-face {
     font-family: "Lato";
     src: url('../fonts/Lato-Regular.ttf');
 }
 
 body{
-    font-family: "Lato";
+    font-family: "open_sansregular";
 }
 .top{
-    margin-top: 20px;
-    margin-bottom: 35px;
+    margin-top: 10px;
+    margin-bottom: 15px;
     text-align: center;
     font-size: 2em;
 }
@@ -71,7 +71,7 @@ body{
 .sidebar-nav {
     position: absolute;
     top: 0;
-    width: 115px;
+    width: 100px;
     margin: 0;
     /*padding: 50% 0 0 0 !important;*/
     list-style: none;
@@ -193,11 +193,19 @@ div.navbar ul.nav.pull-right li.profile a:focus{
     height: auto;
     width: auto;
 }
-.inner-wrapper hr{
-    width: 800px;
+/*.inner-wrapper hr{*/
+    /*width: 800px;*/
+    /*text-align: left;*/
+    /*border-color: #947863;*/
+    /*float: left;*/
+/*}*/
+
+.cal-hr{
+    width: 200px;
     text-align: left;
-    border-color: #947863;
+    border:2px solid #947863;
     float: left;
+    margin-top: 0;
 }
 .loginmodal-container {
     padding: 20px;
@@ -312,6 +320,13 @@ div.navbar ul.nav.pull-right li.profile a:focus{
     width: 100%;
 
 }
+
+/*HOME CONTROL*/
+
+.btn-home{
+    background: #B2AEA5;
+}
+
 @media(min-width:768px) {
     #wrapper {
         padding-left: 100px;
@@ -348,6 +363,9 @@ div.navbar ul.nav.pull-right li.profile a:focus{
 @media screen and (max-width: 768px){
     ul.nav.pull-right li.profile a span{
         display: none;
+    }
+    ul.nav.pull-right{
+        margin-right: -25px;
     }
     div#page-content-wrapper div.navbar img.logo{
         height: 50px;

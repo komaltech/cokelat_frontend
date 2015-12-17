@@ -2,7 +2,146 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bd06e58f-1ea4-42d5-9635-a8e81488a557" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/chocolate.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_bold_macroman/specimen_files/OpenSans-Bold-cleartype.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_bold_macroman/OpenSans-Bold-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_bold_macroman/OpenSans-Bold-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_bold_macroman/OpenSans-Bold-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/OpenSans-Bold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_bolditalic_macroman/specimen_files/OpenSans-BoldItalic-cleartype.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_bolditalic_macroman/OpenSans-BoldItalic-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_bolditalic_macroman/OpenSans-BoldItalic-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_bolditalic_macroman/OpenSans-BoldItalic-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/OpenSans-BoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_extrabold_macroman/specimen_files/OpenSans-ExtraBold-cleartype.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_extrabold_macroman/OpenSans-ExtraBold-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_extrabold_macroman/OpenSans-ExtraBold-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_extrabold_macroman/OpenSans-ExtraBold-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/OpenSans-ExtraBold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_extrabolditalic_macroman/specimen_files/OpenSans-ExtraBoldItalic-cleartype.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_extrabolditalic_macroman/OpenSans-ExtraBoldItalic-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_extrabolditalic_macroman/OpenSans-ExtraBoldItalic-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_extrabolditalic_macroman/OpenSans-ExtraBoldItalic-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/OpenSans-ExtraBoldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_italic_macroman/specimen_files/OpenSans-Italic-cleartype.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_italic_macroman/OpenSans-Italic-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_italic_macroman/OpenSans-Italic-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_italic_macroman/OpenSans-Italic-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/OpenSans-Italic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_light_macroman/specimen_files/OpenSans-Light-cleartype.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_light_macroman/OpenSans-Light-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_light_macroman/OpenSans-Light-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_light_macroman/OpenSans-Light-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/OpenSans-Light.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_lightitalic_macroman/specimen_files/OpenSans-LightItalic-cleartype.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_lightitalic_macroman/OpenSans-LightItalic-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_lightitalic_macroman/OpenSans-LightItalic-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_lightitalic_macroman/OpenSans-LightItalic-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/OpenSans-LightItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_regular_macroman/specimen_files/OpenSans-Regular-cleartype.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_regular_macroman/OpenSans-Regular-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_regular_macroman/OpenSans-Regular-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_regular_macroman/OpenSans-Regular-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/OpenSans-Regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_semibold_macroman/specimen_files/OpenSans-Semibold-cleartype.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_semibold_macroman/OpenSans-Semibold-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_semibold_macroman/OpenSans-Semibold-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_semibold_macroman/OpenSans-Semibold-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/OpenSans-Semibold.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_semibolditalic_macroman/specimen_files/OpenSans-SemiboldItalic-cleartype.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_semibolditalic_macroman/OpenSans-SemiboldItalic-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_semibolditalic_macroman/OpenSans-SemiboldItalic-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_semibolditalic_macroman/OpenSans-SemiboldItalic-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/OpenSans-SemiboldItalic.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icon bahan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icon calendar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icon dashboard.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icon dropdown.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icon gudang 2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icon gudang.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icon hak akses.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icon karyawan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icon keuangan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icon konversi.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icon laporan 2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icon laporan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icon master data.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icon menu.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icon password.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icon pelanggan.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icon pengguna.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icon search.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icon tambah 2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icon tambah.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icon tech support.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/icon user.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/logo the mastej 2.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/logo the mastej.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/m biz white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/img/m biz.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_bold_macroman/OpenSans-Bold-demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_bold_macroman/OpenSans-Bold-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_bolditalic_macroman/OpenSans-BoldItalic-demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_bolditalic_macroman/OpenSans-BoldItalic-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_extrabold_macroman/OpenSans-ExtraBold-demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_extrabold_macroman/OpenSans-ExtraBold-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_extrabolditalic_macroman/OpenSans-ExtraBoldItalic-demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_extrabolditalic_macroman/OpenSans-ExtraBoldItalic-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_italic_macroman/OpenSans-Italic-demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_italic_macroman/OpenSans-Italic-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_light_macroman/OpenSans-Light-demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_light_macroman/OpenSans-Light-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_lightitalic_macroman/OpenSans-LightItalic-demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_lightitalic_macroman/OpenSans-LightItalic-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_regular_macroman/OpenSans-Regular-demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_regular_macroman/OpenSans-Regular-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_semibold_macroman/OpenSans-Semibold-demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_semibold_macroman/OpenSans-Semibold-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_semibolditalic_macroman/OpenSans-SemiboldItalic-demo.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_semibolditalic_macroman/OpenSans-SemiboldItalic-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_bold_macroman/specimen_files/easytabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_bolditalic_macroman/specimen_files/easytabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_extrabold_macroman/specimen_files/easytabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_extrabolditalic_macroman/specimen_files/easytabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_italic_macroman/specimen_files/easytabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_light_macroman/specimen_files/easytabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_lightitalic_macroman/specimen_files/easytabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_regular_macroman/specimen_files/easytabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_semibold_macroman/specimen_files/easytabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_semibolditalic_macroman/specimen_files/easytabs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_bold_macroman/specimen_files/grid_12-825-55-15.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_bolditalic_macroman/specimen_files/grid_12-825-55-15.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_extrabold_macroman/specimen_files/grid_12-825-55-15.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_extrabolditalic_macroman/specimen_files/grid_12-825-55-15.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_italic_macroman/specimen_files/grid_12-825-55-15.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_light_macroman/specimen_files/grid_12-825-55-15.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_lightitalic_macroman/specimen_files/grid_12-825-55-15.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_regular_macroman/specimen_files/grid_12-825-55-15.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_semibold_macroman/specimen_files/grid_12-825-55-15.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_semibolditalic_macroman/specimen_files/grid_12-825-55-15.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_bold_macroman/specimen_files/specimen_stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_bolditalic_macroman/specimen_files/specimen_stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_extrabold_macroman/specimen_files/specimen_stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_extrabolditalic_macroman/specimen_files/specimen_stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_italic_macroman/specimen_files/specimen_stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_light_macroman/specimen_files/specimen_stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_lightitalic_macroman/specimen_files/specimen_stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_regular_macroman/specimen_files/specimen_stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_semibold_macroman/specimen_files/specimen_stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_semibolditalic_macroman/specimen_files/specimen_stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_bold_macroman/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_bolditalic_macroman/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_extrabold_macroman/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_extrabolditalic_macroman/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_italic_macroman/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_light_macroman/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_lightitalic_macroman/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_regular_macroman/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_semibold_macroman/stylesheet.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_semibolditalic_macroman/stylesheet.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/img/chocolate.jpg" afterPath="$PROJECT_DIR$/assets/img/chocolate.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/global_style.css" afterPath="$PROJECT_DIR$/assets/css/global_style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="cokelat_frontend.iws" />
@@ -28,8 +167,28 @@
       <file leaf-file-name="global_style.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/global_style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10452962">
-              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.26595744">
+              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stylesheet.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_regular_macroman/stylesheet.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1" column="27" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0">
+              <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -38,11 +197,12 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="15.862069">
-              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+            <state vertical-scroll-proportion="-6.614035">
+              <caret line="115" column="40" selection-start-line="115" selection-start-column="40" selection-end-line="115" selection-end-column="40" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,7 +211,7 @@
       <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-3.6206896">
               <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
               <folding>
                 <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -77,8 +237,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/login.html" />
-        <option value="$PROJECT_DIR$/assets/css/global_style.css" />
+        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/assets/css/global_style.css" />
       </list>
     </option>
   </component>
@@ -191,6 +352,54 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="open-sans-fontfacekit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cokelat_frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cokelat_frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fonts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="open-sans-fontfacekit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="opensans_regular_macroman" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cokelat_frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cokelat_frontend" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="fonts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="glyphicons-pro" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -223,7 +432,7 @@
     <property name="DefaultHtmlFileTemplate" value="Html5" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="FullScreen" value="false" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Font" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RunManager">
@@ -319,7 +528,19 @@
       <option name="project" value="LOCAL" />
       <updated>1450370760811</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Revisi CSS Login">
+      <created>1450370894589</created>
+      <option name="number" value="00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1450370894589</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Revisi CSS Login">
+      <created>1450370958712</created>
+      <option name="number" value="00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1450370958712</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -328,7 +549,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2968278" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3294509" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32961783" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -363,7 +584,8 @@
     <MESSAGE value="Build Index File" />
     <MESSAGE value="create login" />
     <MESSAGE value="Revisi CSS Login" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revisi CSS Login" />
+    <MESSAGE value="Inserting Assets" />
+    <option name="LAST_COMMIT_MESSAGE" value="Inserting Assets" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -385,6 +607,7 @@
           <folding>
             <element signature="n#style#0;n#span#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -414,6 +637,7 @@
           <folding>
             <element signature="n#style#0;n#span#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -443,6 +667,7 @@
           <folding>
             <element signature="n#style#0;n#span#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -472,6 +697,7 @@
           <folding>
             <element signature="n#style#0;n#span#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -491,6 +717,7 @@
           <folding>
             <element signature="n#style#0;n#span#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -510,6 +737,7 @@
           <folding>
             <element signature="n#style#0;n#span#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -539,6 +767,7 @@
           <folding>
             <element signature="n#style#0;n#span#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -568,6 +797,7 @@
           <folding>
             <element signature="n#style#0;n#span#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -597,6 +827,7 @@
           <folding>
             <element signature="n#style#0;n#span#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -626,6 +857,7 @@
           <folding>
             <element signature="n#style#0;n#span#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -645,13 +877,14 @@
           <folding>
             <element signature="n#style#0;n#span#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="-3.6206896">
           <caret line="12" column="34" selection-start-line="12" selection-start-column="34" selection-end-line="12" selection-end-column="34" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -659,21 +892,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="15.862069">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        <state vertical-scroll-proportion="-6.614035">
+          <caret line="115" column="40" selection-start-line="115" selection-start-column="40" selection-end-line="115" selection-end-column="40" />
           <folding>
             <element signature="n#style#0;n#span#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#a#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/fonts/open-sans-fontfacekit/opensans_regular_macroman/stylesheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="27" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/global_style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10452962">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.26595744">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
           <folding />
         </state>
       </provider>
